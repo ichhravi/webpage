@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/nadeemnz/webpage/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Who am I?
+I received my BSc Engineering degree in Electrical and Electronics from University of Engineering and Technology, Lahore, Pakistan, in 1998 and MSc Engineering degree from Royal Institute of Technology, Sweden, in 2003.  I obtained the PhD degree from the Department of Electrical and Computer Engineering at University of Auckland in 2012.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I worked for University of Neuchatel and Microlab in Switzerland between 2002 and 2004. From 2004 to 2008 and 2012 to 2014, I worked as Lecturer and Assistant Professor at the COMSATS Institute of Technology, Pakistan. I joined the Department of Electrical and Computer Engineering at The University of Auckland in February 2014.
 
-```markdown
-Syntax highlighted code block
+I have over 10 years experience teaching tertiary-level Computer Engineering courses, including Digital Design, Micro-controllers, FPGAs and Embedded Systems. I am currently lecturing for the Department of Electrical and Computer Engineering at University of Auckland. Moreover, I am actively involved in research which has focused upon embedded systems and FPGA design. 
 
 # Header 1
 ## Header 2
