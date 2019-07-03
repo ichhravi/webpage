@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/nadeemnz/webpage/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Who am I?
+# Who am I?
 I received my BSc Engineering degree in Electrical and Electronics from University of Engineering and Technology, Lahore, Pakistan, in 1998 and MSc Engineering degree from Royal Institute of Technology, Sweden, in 2003.  I obtained the PhD degree from the Department of Electrical and Computer Engineering at University of Auckland in 2012.
 
 I worked for University of Neuchatel and Microlab in Switzerland between 2002 and 2004. From 2004 to 2008 and 2012 to 2014, I worked as Lecturer and Assistant Professor at the COMSATS Institute of Technology, Pakistan. I joined the Department of Electrical and Computer Engineering at The University of Auckland in February 2014.
